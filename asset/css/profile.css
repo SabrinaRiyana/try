@@ -1,0 +1,159 @@
+.background{
+    margin: 0;
+    padding: 0;
+    background: #FFFFFF;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.h1{
+    left: 33px; 
+    top: 23px; 
+    position: absolute; 
+    color: #92C7CF; 
+    font-size: 40px; 
+    font-family: Libre Caslon Text; 
+    font-weight: 400; 
+    word-wrap: break-word
+}
+
+.h1 a {
+    color: #92C7CF;
+}
+
+.word{
+    left: 377px; 
+    top: 269px; 
+    position: absolute; 
+    color: black; 
+    font-size: 40px; 
+    font-family: Libre Caslon Text; 
+    font-weight: 400; 
+    word-wrap: break-word
+}
+.profil{
+    left: 377px; 
+    top: 130px; 
+    position: absolute; 
+    color: #92C7CF; 
+    font-size: 30px; 
+    font-family: Libre Caslon Text; 
+    font-weight: 400; 
+    word-wrap: break-word
+}
+.signin{
+    left: 1100px; 
+    top: 27px; 
+    position: absolute; 
+    color: #92C7CF; 
+    font-size: 30px; 
+    font-family: Libre Caslon Text; 
+    font-weight: 400; 
+    word-wrap: break-word
+}
+
+.signin a {
+    color: #92C7CF;
+}
+
+.login{
+    left: 1200px; 
+    top: 27px; 
+    position: absolute; 
+    color: #92C7CF; 
+    font-size: 30px; 
+    font-family: Libre Caslon Text; 
+    font-weight: 400; 
+    word-wrap: break-word
+}
+
+.login a {
+    color: #92C7CF;
+}
+
+.menu{
+    left: 383px; 
+    top: 145px; 
+    position: absolute; 
+    color: black; 
+    word-spacing: 30px;
+    font-size: 30px; 
+    font-family: Libre Caslon Text; 
+    font-weight: 400; 
+    word-wrap: break-word
+}
+
+.menu a {
+    color: #92C7CF;
+}
+
+.container{
+    width: 100px; 
+    height: 100px; 
+    left: 1047px; 
+    top: 6px; 
+    position: absolute
+}
+.container1{
+    width: 1350px; 
+    height: 849px; 
+    left: 10px; 
+    top: 190px; 
+    position: absolute; 
+    background: #92C7CF
+}
+.word{
+    left: 656px; 
+    top: 245px; 
+    position: absolute; 
+    color: black; 
+    font-size: 40px; 
+    font-family: Libre Caslon Text; 
+    font-weight: 400; 
+    word-wrap: break-word
+}
+.word1{
+    left: 564px; 
+    top: 330px; 
+    position: absolute; 
+    color: black; 
+    font-size: 36px; 
+    font-family: Libre Caslon Text; 
+    font-weight: 400; 
+    word-wrap: break-word;
+    line-height: 2;
+  
+}
+.line{
+    width: 1330px;
+    height: 0px;
+    top: 98px;
+    color: black;
+    position: absolute;
+    border: 8px solid black;
+}
+.pict{
+    width: 384px; 
+    height: 384px; 
+    left: 75px; 
+    top: 378px; 
+    position: absolute; 
+    border-radius: 9999px
+}
+.word2{
+    left: 173px; 
+    top: 786px; 
+    position: absolute; 
+    color: black; 
+    font-size: 24px; 
+    font-family: Libre Caslon Text; 
+    font-weight: 400; 
+    word-wrap: break-word
+}
+.line1{
+    width: 697px; 
+    height: 0px; 
+    left: 340px; 
+    top: 319px; 
+    position: absolute; 
+    border: 1.2px black solid
+}

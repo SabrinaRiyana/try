@@ -1,0 +1,144 @@
+.Background{
+    width: 1440px;
+    height: 1024px; 
+    position: relative; 
+    background: white
+}
+.Line{
+    width: 1440px; 
+    height: 0px; 
+    left: -4px; 
+    top: 98px; 
+    position: absolute; 
+    border: 10px black solid
+}
+.h1{
+    left: 33px; 
+    top: 23px; 
+    position: absolute; 
+    color: #92C7CF; 
+    font-size: 40px; 
+    font-family: Libre Caslon 
+    Text; font-weight: 400
+}
+.sign{
+    left: 1193px; 
+    top: 27px; 
+    position: absolute; 
+    color: #92C7CF; 
+    font-size: 30px; 
+    font-family: Libre Caslon 
+    Text; 
+    font-weight: 400; 
+}
+
+.sign a {
+    color: #92C7CF;
+}
+
+.login{
+    left: 1305px; 
+    top: 27px; 
+    position: absolute; 
+    color: #92C7CF; 
+    font-size: 30px; 
+    font-family: Libre Caslon 
+    Text; 
+    font-weight: 400; 
+}
+
+.login a {
+    color: #92C7CF;
+}
+
+.Menu{
+    left: 383px; 
+    top: 145px; 
+    position: absolute; 
+    color: black; 
+    word-wrap: break-word;
+    word-spacing: 30px;
+    font-size: 30px; 
+    font-family: Libre Caslon Text; 
+    font-weight: 400
+}
+
+.Menu a {
+    color: #92C7CF;
+}
+
+.container{
+    width: 1440px; 
+    height: 840px; 
+    left: 0px; 
+    top: 200px; 
+    position: absolute; 
+    background: #92C7CF
+}
+.word{
+    left: 599px; 
+    top: 290px; 
+    position: absolute; 
+    text-align: center; 
+    color: black; 
+    font-size: 30px; 
+    font-family: Libre Caslon 
+    Text; font-weight: 400; 
+    word-wrap: break-word
+}
+.container2{
+    width: 744px; 
+    height: 0px; 
+    left: 344px; 
+    top: 356px; 
+    position: absolute; 
+    border: 1px #0c0c0c solid
+}
+.pen{
+    width: 48px; 
+    height: 48px; 
+    left: 1252px; 
+    top: 263px; 
+    position: absolute
+}
+.check{
+    left:585px;
+    top:360px;
+    width:291px;
+    height:334;
+    position: absolute;
+}
+.word1{
+    left: 600px; 
+    top: 674px; 
+    position: absolute; 
+    color: black; 
+    font-size: 50px; 
+    font-family: Libre Caslon Text; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+.word2{
+    left: 450px; 
+    top: 750px; 
+    position: absolute; 
+    color: rgba(0, 0, 0, 0.80); 
+    font-size: 40px; 
+    font-family: Libre Caslon Text; 
+    font-weight: 400;
+    word-wrap: break-word
+}
+.word3{
+    left: 615px; 
+    top: 946px; 
+    position: absolute; 
+    color: rgba(0, 0, 0, 0.60); 
+    font-size: 25px; 
+    font-family: Libre Caslon Text; 
+    font-weight: 400; 
+    word-wrap: break-word
+}
+
+.word3 a {
+    color: black;
+}

@@ -1,0 +1,207 @@
+.Background{
+    margin: 0;
+    padding: 0;
+    background: #FFFFFF;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.Line{
+    width: 1320px; 
+    height: 0px; 
+    top: 98px; 
+    position: absolute; 
+    border: 10px solid black;
+}
+.h1{
+    left: 33px; 
+    top: 23px; 
+    position: absolute; 
+    color: #92C7CF; 
+    font-size: 40px; 
+    font-family: Libre Caslon 
+    Text; font-weight: 400
+}
+
+.h1 a {
+    color: #92C7CF;
+}
+
+.sign{
+    left: 1100px; 
+    top: 27px; 
+    position: absolute; 
+    color: #92C7CF; 
+    font-size: 30px; 
+    font-family: Libre Caslon 
+    Text; 
+    font-weight: 400; 
+}
+
+.sign a {
+    color: #92C7CF;
+}
+
+.login{
+    left: 1200px; 
+    top: 27px; 
+    position: absolute; 
+    color: #92C7CF; 
+    font-size: 30px; 
+    font-family: Libre Caslon 
+    Text; 
+    font-weight: 400; 
+}
+
+.login a {
+    color: #92C7CF;
+}
+
+.Menu{
+    left: 383px; 
+    top: 145px; 
+    position: absolute; 
+    color: black; 
+    word-wrap: break-word;
+    word-spacing: 30px;
+    font-size: 30px; 
+    font-family: Libre Caslon Text; 
+    font-weight: 400
+}
+
+.Menu a {
+    color: #92C7CF;
+}
+
+.container{
+    width: 1330px; 
+    height: 846px; 
+    left: 10px; 
+    top: 215px; 
+    position: absolute; 
+    background: #92C7CF
+}
+.container1{
+    width: 700px; 
+    height: 0px; 
+    left: 344px; 
+    top: 356px; 
+    position: absolute; 
+    border: 1px #000000 solid
+}
+.word{
+    left: 599px; 
+    top: 290px; 
+    position: absolute; 
+    text-align: center; 
+    color: #000000; 
+    font-size: 30px; 
+    font-family: Libre Caslon 
+    Text; font-weight: 400; 
+    word-wrap: break-word
+}
+.container2{
+    width: 1200px; 
+    height: 571px; 
+    left: 76px; 
+    top: 413px; 
+    position: absolute; 
+    background: white; 
+    border-radius: 25px
+}
+.circle{
+    width: 57px; 
+    height: 56px; 
+    left: 128px; 
+    top: 860px; 
+    border-radius: 9999px;
+    position: absolute; 
+    background: #F8EC86
+}
+.coment1{
+    left: 202px; 
+    top: 705px; 
+    position: absolute; 
+    color: black; 
+    font-size: 30px; 
+    font-family: Libre Caslon 
+    Text; font-weight: 400; 
+    word-wrap: break-word
+}
+.circle1{
+    width: 57px; 
+    height: 56px; 
+    left: 128px; 
+    top: 778px; 
+    position: absolute; 
+    background: #86F8AD; 
+    border-radius: 9999px
+}
+.pict{
+    width: 132px; 
+    height: 189px; 
+    left: 136px; 
+    top: 456px; 
+    position: absolute
+}
+.title{
+    left: 308px; 
+    top: 483px; 
+    position: absolute; 
+    color: black; 
+    font-size: 30px; 
+    font-family: Libre Caslon 
+    Text; font-weight: 400; 
+    word-wrap: break-word
+}
+.author{
+    width: 264px; 
+    height: 43px; 
+    left: 308px; 
+    top: 529px; 
+    position: absolute; 
+    color: black; 
+    font-size: 24px; 
+    font-family: Libre Caslon 
+    Text; font-weight: 400; 
+    word-wrap: break-word
+}
+.circle2{
+    width: 57px; 
+    height: 56px; 
+    left: 128px; 
+    top: 696px; 
+    position: absolute; 
+    background: #F8C386; 
+    border-radius: 9999px
+}
+.coment2{
+    left: 202px; 
+    top: 787px; 
+    position: absolute; 
+    color: black; 
+    font-size: 30px; 
+    font-family: Libre Caslon 
+    Text; font-weight: 400; 
+    word-wrap: break-word
+}
+.coment3{
+    left: 202px; 
+    top: 869px; 
+    position: absolute; 
+    color: black; 
+    font-size: 30px; 
+    font-family: Libre Caslon Text; 
+    font-weight: 400; 
+    word-wrap: break-word
+}
+.line1{
+    width: 1154px; 
+    height: 0px; 
+    left: 136px; 
+    top: 676px; 
+    color: #86F8AD;
+    position: 
+    absolute; 
+    border: 1px 
+}

@@ -1,0 +1,120 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #FFFFFF;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: Libre Caslon Text;
+}
+
+.input {
+    position: fixed;
+    top: 50%;
+    left: 610px;
+    transform: translate(-30%, -50%);
+    background: #92C7CF;
+    padding: 50px;
+    width: 300px;
+    height: 350px;
+    box-shadow: 0px 0px 20px 1px #92C7CF;
+    border-radius: 15px;
+    color: black;
+}
+
+.input h1 {
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    font-family: Libre Caslon Text;
+    letter-spacing: 3px;
+    margin-bottom: 40px;
+}
+
+.box-input {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    padding: 8px 0;
+    color: black;
+    font-size: 23px;
+    width: 280px;
+    height: 36px;
+}
+
+/* .box-input {
+    font-size: 23px;
+    color: black;
+    padding: 5px 0;
+    width: 280px;
+    height: 36px;
+} */
+
+.box-input input {
+    width: 150%;
+    right: 10px;
+    padding: 12px 20px;
+    background: white;
+    outline: white;
+    color: black;
+    border: 1px solid white;
+    box-sizing: border-box;
+    font-size: 18px;
+    height: 45px;
+}
+
+.box-input input::placeholder {
+    color: black;
+}
+
+.btn-input .box-input input:hover {
+    background: rgba(10, 10, 10, s 0.5);
+}
+
+.btn-input {
+    margin-left: 78px;
+    margin-top: 1px;
+    background: none;
+    border: 1px solid white;
+    width: 50.5%;
+    padding: 8px;
+    color: white;
+    font-size: 18px;
+    letter-spacing: 3px;
+    cursor: pointer;
+    transition: all .2s;
+    border-radius: 10px;
+}
+
+.btn-input:hover {
+    background: #29A8B3;
+}
+
+.bottom {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: -20px;
+}
+
+.bottom p {
+    color: black;
+    font-size: 15px;
+    text-decoration: none;
+    position: center;
+}
+
+.bottom a {
+    color: #31AFB7;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.bottom a:hover {
+    text-decoration: underline;
+}
+
+.image {
+    left: 120px;
+    top: -110px;
+    position: absolute;
+    border-radius: 20px;
+}

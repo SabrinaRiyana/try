@@ -1,0 +1,342 @@
+.background{
+    margin: 0;
+    padding: 0;
+    background: #FFFFFF;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.line{
+    width: 1330px; 
+    height: 0px; 
+    top: 98px; 
+    left:0px;
+    position: absolute; 
+    border: 8px solid black;
+}
+.h1{
+    left: 33px;
+    top: 23px;
+    position: absolute;
+    color: #92C7CF;
+    font-size: 40px;
+    font-family: Libre Caslon Text;
+    font-weight: 400;
+}
+
+.h1 a {
+    color:4A #92C7CF;
+}
+
+.menu{
+    left: 377px; 
+    top: 130px; 
+    position: absolute; 
+    color: black; 
+    font-size: 30px; 
+    font-family: Libre Caslon Text; 
+    font-weight: 400; 
+    word-spacing: 30px;
+    word-wrap: break-word
+}
+
+.menu a {
+    color: #92C7CF;
+}
+
+.line1{
+    width: 1330px; 
+    height: 0px; 
+    left: 10px; 
+    position: absolute; 
+    border: 1px;
+    color: black 
+}
+.signin{
+    left: 1085px;  
+    top:30px;
+    position: absolute; 
+    text-align: center; 
+    color: #92C7CF; 
+    font-size: 30px; 
+    font-family: Libre Caslon Text; 
+    font-weight: 400; 
+    word-wrap: break-word
+}
+
+.signin a {
+    color: #31AFB7;
+}
+
+.login{
+    left: 1190px; 
+    top: 30px; 
+    position: absolute; 
+    text-align: center; 
+    color: #31AFB7; 
+    font-size: 30px; 
+    font-family: Libre Caslon Text; 
+    font-weight: 400; 
+    word-wrap: break-word  
+}
+
+.login a {
+    color: #31AFB7;
+}
+.container1{
+    width: 1340px; 
+    height: 3170px; 
+    left: 0px; 
+    top: 178px; 
+    position: absolute; 
+    background: #92C7CF
+}
+.container2{
+    width: 1200px; 
+    height: 556px; 
+    left: 73px; 
+    top: 420px; 
+    position: absolute; 
+    background: white; 
+    border-radius: 25px
+}
+.word{
+    left: 450px; 
+    top: 244px; 
+    position: absolute; 
+    color: black; 
+    font-size: 40px; 
+    font-family: Libre Caslon Text; 
+    font-weight: 400; 
+    word-wrap: break-word
+}
+.comment{
+    width: 90px; 
+    height: 88px; 
+    right: 180px;
+    top: 498px; 
+    position: absolute
+}
+.pict{
+    width: 132px; 
+    height: 189px; 
+    left: 136px; 
+    top: 460px; 
+    position: absolute
+}
+.title{
+    left: 299px; 
+    top: 476px; 
+    position: absolute; 
+    color: black; 
+    font-size: 30px; 
+    font-family: Libre Caslon Text; 
+    font-weight: 400; 
+    word-wrap: break-word
+}
+.writer{
+    width: 306px; 
+    height: 31px; 
+    left: 299px; 
+    top: 524px; 
+    position: absolute; 
+    color: black; 
+    font-size: 24px; 
+    font-family: Libre Caslon Text; 
+    font-weight: 400; 
+    word-wrap: break-word
+}
+.line1{
+    width: 849px; 
+    height: 0px; 
+    left: 250px; 
+    top: 300px; 
+    position: absolute; 
+    border: 1px solid black;
+}
+.word1{
+    width: 1116px; 
+    left: 145px; 
+    top: 693px; 
+    position: absolute; 
+    color: black; 
+    font-size: 24px; 
+    font-family: Libre Caslon Text; 
+    font-weight: 400; 
+    word-wrap: break-word
+}
+.line1{
+    width: 637px; 
+    height: 0px; 
+    left: 300px; 
+    top: 600px; 
+    position: absolute; 
+    border: 1px solid black;
+}
+.contain{
+    width: 1200px; 
+    height: 556px; 
+    left: 73px; 
+    top: 1084px; 
+    position: absolute; 
+    background: white; 
+    border-radius: 25px
+}
+.pict2 {
+    width: 132px; 
+    height: 189px; 
+    left: 70px; 
+    top: 40px; 
+    position: absolute
+}
+.title2 {
+    left: 230px; 
+    top: 60px; 
+    position: absolute; 
+    color: black; 
+    font-size: 30px; 
+    font-family: Libre Caslon Text; 
+    font-weight: 400; 
+    word-wrap: break-word
+}
+.writer2 {
+    width: 306px; 
+    height: 31px; 
+    left: 230px; 
+    top: 110px; 
+    position: absolute; 
+    color: black; 
+    font-size: 24px; 
+    font-family: Libre Caslon Text; 
+    font-weight: 400; 
+    word-wrap: break-word
+}
+.line2 {
+    width: 849px; 
+    height: 0px; 
+    left: 230px; 
+    top: 190px; 
+    position: absolute; 
+    border: 1px solid black;
+}
+.word2 {
+  left: 80px;
+  top: 280px;
+  position: absolute;
+  color: black;
+  font-size: 25px;
+  font-family: Libre Caslon Text;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+.contain2 {
+    width: 1200px; 
+    height: 556px; 
+    left: 73px; 
+    top: 1750px; 
+    position: absolute; 
+    background: white; 
+    border-radius: 25px
+}
+.pict3 {
+    width: 132px; 
+    height: 189px; 
+    left: 70px; 
+    top: 40px; 
+    position: absolute;
+}
+.title3 {
+    left: 230px; 
+    top: 60px; 
+    position: absolute; 
+    color: black; 
+    font-size: 30px; 
+    font-family: Libre Caslon Text; 
+    font-weight: 400; 
+    word-wrap: break-word
+}
+.writer3 {
+    width: 306px; 
+    height: 31px; 
+    left: 230px; 
+    top: 110px; 
+    position: absolute; 
+    color: black; 
+    font-size: 24px; 
+    font-family: Libre Caslon Text; 
+    font-weight: 400; 
+    word-wrap: break-word
+}
+.line3 {
+    width: 849px; 
+    height: 0px; 
+    left: 230px; 
+    top: 190px; 
+    position: absolute; 
+    border: 1px solid black;
+}
+.word3 {
+  left: 75px;
+  top: 280px;
+  position: absolute;
+  color: black;
+  font-size: 25px;
+  font-family: Libre Caslon Text;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+.contain3 {
+    width: 1200px; 
+    height: 556px; 
+    left: 73px; 
+    top: 2430px; 
+    position: absolute; 
+    background: white; 
+    border-radius: 25px
+}
+.pict4 {
+    width: 132px; 
+    height: 189px; 
+    left: 70px; 
+    top: 40px; 
+    position: absolute;
+}
+.title4 {
+    left: 230px; 
+    top: 60px; 
+    position: absolute; 
+    color: black; 
+    font-size: 30px; 
+    font-family: Libre Caslon Text; 
+    font-weight: 400; 
+    word-wrap: break-word
+}
+.writer4 {
+    width: 306px; 
+    height: 31px; 
+    left: 230px; 
+    top: 110px; 
+    position: absolute; 
+    color: black; 
+    font-size: 24px; 
+    font-family: Libre Caslon Text; 
+    font-weight: 400; 
+    word-wrap: break-word
+}
+.line4 {
+    width: 849px; 
+    height: 0px; 
+    left: 230px; 
+    top: 190px; 
+    position: absolute; 
+    border: 1px solid black;
+}
+.word4 {
+  left: 75px;
+  top: 280px;
+  position: absolute;
+  color: black;
+  font-size: 25px;
+  font-family: Libre Caslon Text;
+  font-weight: 400;
+  word-wrap: break-word;
+}
